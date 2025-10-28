@@ -22,9 +22,9 @@ To resolve this issue:
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+	- Google Colab
+2. Visit the notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_eG09NlMhtK8wsw0PoKa1noossH6RU0a#scrollTo=8QlMsvArwwee)
+
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
