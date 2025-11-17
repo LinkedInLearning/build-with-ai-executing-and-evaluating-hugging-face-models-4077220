@@ -23,7 +23,7 @@ To resolve this issue:
 ## Installing
 1. To use these exercise files, you must have the following installed:
 	- Google Colab
-2. Visit the notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_eG09NlMhtK8wsw0PoKa1noossH6RU0a#scrollTo=8QlMsvArwwee)
+2. Visit the notebook: [[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_eG09NlMhtK8wsw0PoKa1noossH6RU0a#scrollTo=8QlMsvArwwee)](https://colab.research.google.com/drive/1qEqr_iG45mc4R6BY3Dj9cwTC9mW1GcKk#scrollTo=0ax79bW5McJw)
 
 
 
