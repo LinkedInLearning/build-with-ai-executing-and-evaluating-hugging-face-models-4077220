@@ -21,7 +21,7 @@ To resolve this issue:
 	Commit changes using this command: git commit -m "some message"
 
 ## Installing
-1. To use these exercise files, you must have the following installed:
+1. To use these exercise files, you must have access to:
 	- Google Colab
 2. Visit the notebook: https://colab.research.google.com/drive/1qEqr_iG45mc4R6BY3Dj9cwTC9mW1GcKk#scrollTo=0ax79bW5McJw
 
